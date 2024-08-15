@@ -29,13 +29,13 @@ This project is a medical customer service chatbot designed to assist patients w
 ### AWS Setup
 #### IAM Roles and Permissions
 1. Create IAM roles for Lex and Lambda with the necessary permissions.
-2. Attach policies for DynamoDB access (if using DynamoDB).
+2. Attach policies for DynamoDB access.
 
 ### Creating the Lex Bot
 #### Bot Configuration
 1. Go to Amazon Lex console.
 2. Create a new bot with the desired name and language.
-3. Configure basic settings like session timeout and IAM role.
+3. Configure basic settings.
 
 #### Defining Intents and Sample Utterances
 1. Create intents titled `Book Appointment`,`GetMedicalBillInfo`.
