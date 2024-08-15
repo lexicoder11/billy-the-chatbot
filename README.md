@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Project Overview
-This project is a medical customer service chatbot designed to assist patients with common medical bill inquiries. The chatbot leverages AWS services for natural language understanding, serverless functions, and data storage.
+This project is a medical customer service chatbot designed to assist patients with booking appointments and common medical bill inquiries. The chatbot leverages AWS services for natural language understanding, serverless functions, and data storage.
 
 ### Technology Stack
 - **Amazon Lex**: For natural language understanding and chatbot interactions.
